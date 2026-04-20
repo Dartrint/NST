@@ -1,0 +1,1 @@
+**Neutral Style Transfer** (NST) for images is a computer vision task that aims to remove stylistic attributes (e.g., artistic filters, exaggerated colors, lighting effects) from an image while preserving its underlying content. The output is a neutral, natural-looking image that retains the original scene, structure, and semantics.
